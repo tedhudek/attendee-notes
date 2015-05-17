@@ -18,6 +18,6 @@ Last year a number of WriteTheDocs attendees put their notes on GitHub. By placi
 
 # HOW
 
-Make a fork of the repo. The directory structure is broken down by day, and then by talk. Each talk's folder contains a readme file with a synopsis of the talk. Create a file in that folder as $githubusername.md and add your notes (preferable in Markdown or GitHub Flavored Markdown). At the end, create a pull request of your branch to the main fork.
+Make a fork of the repo. The directory structure is broken down by day, and then by talk. Each talk's folder contains a readme file with a synopsis of the talk. Create a file in that folder as $githubusername.md and add your notes (preferable in Markdown or GitHub Flavored Markdown). At the end, create a pull request of your fork to the main fork.
 
 After the conference ends, we as a community can work on a master notes file for each directory, pulling the best from each submission.
