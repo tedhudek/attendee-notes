@@ -1,0 +1,1 @@
+<p>Just as the first wiki changed how people write, our new wiki will change how people work. By pushing steadily on two fundamental ideas, refactoring to ease improvement and federation to ease sharing, we have once again uncovered a simpler and more powerful internet.</p>

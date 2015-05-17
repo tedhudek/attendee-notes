@@ -1,0 +1,8 @@
+<p>How did Mozilla Developer Network (MDN) achieve a 46% increase in active editors and a 90% increase in translation contributions in 2014? Many factors helped, but a major element was the support we added for new contributors.<br>
+Scratch your own itch is the proverbial invitation to contribute to open source projects. How well this works for contributing to code is open to debate, but it rarely makes sense for open source documentation, especially for well-established projects. Not only is it unhelpful for the project, which typically has plans (or at least wishlists) for improving the docs, but it provides very little guidance to the contributor as to what they might do, what they personally are able to do, and what would be most helpful to do.<br>
+In the 10 years that MDN has been a wiki (some of the content pre-dates the wiki), the community has always welcomed constructive contributions by anyone who bothers to create a user account. Over the years, weve created meta-documentation about contributing to the site, including wishlists of things wed like to see documented. However, these didnt necessarily help newcomers gain traction.<br>
+Only in the last year or so have we created documentation to help new contributors specifically. Our aim is to help newcomers find the right match among:<br>
+Topics and tasks the person is interested in (what they like)<br>
+Tasks the person has the skills and time to do (what they can do)<br>
+Tasks that help MDN meet the goals that Mozilla has set (what we need/want)<br>
+Ill describe the features weve put in place to achieve this, as well as things were still working on. Ill leave space for discussion so we can all share ideas and successes.</p>
