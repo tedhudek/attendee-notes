@@ -2,7 +2,7 @@
 
 A consolidated repository where all attendees of the WriteTheDocs NA 2015 conference are welcome to contribute their notes for each presentation. After the conference ends, we will collaborate to make a master file of all the notes.
 
-The directory structure is broken down by day, and then by talk. Each talk's folder contains a README file with the speaker-provided talk abstract. After the conference ends, we will collaborate to make a master file of all the notes.
+The directory structure is broken down by day, and then by talk. Each talk's folder contains a README file with the speaker-provided talk abstract.
 
 **Note**: Any speakers are welcome to augment or edit the README for their talk.
 
