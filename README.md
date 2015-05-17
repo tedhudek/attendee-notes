@@ -22,7 +22,7 @@ There are two ways to submit your notes.
 
 1. You can **submit a pull request**. 
 
-    To add your notes, first create a fork of the repo. Create a file in the relevant talk's directory named `githubusername.md`. (This will help avoid merge conflicts.) Add your notes in the body of the file, preferably in Markdown or GitHub Flavored Markdown. When you're done, create a pull request of your fork to the main fork.
+    To add your notes, first create a fork of the repo. Create a file in the relevant talk's directory named `your_github_username.md`. (This will help avoid merge conflicts.) Add your notes in the body of the file, preferably in Markdown or GitHub Flavored Markdown. When you're done, create a pull request of your fork to the main fork.
 
     You can easily do this all via the GitHub UI. To create a new file in a fork of the project, click the + sign next to the repo name. On the next page, you'll be able to name your file and add your notes to it. You can create a pull request by clicking the green button to the left of the branch listing and repo name.
 
