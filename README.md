@@ -12,7 +12,7 @@ We're currently at the first table downstairs in the CENTRL office.
 
 # WHY
 
-Last year I was one of at least three people putting their notes up on GitHub, and I thought it would be of greater benifit to everyone interested to find everyone's impressions of the talks all in one place.
+Last year I was one of at least three people putting their notes up on GitHub, and I thought it would be of greater benefit to everyone interested to find everyone's impressions of the talks all in one place.
 
 # HOW
 
