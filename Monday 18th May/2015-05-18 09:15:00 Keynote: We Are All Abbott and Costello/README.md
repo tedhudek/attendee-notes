@@ -1,0 +1,1 @@
+<p>Documentarians and technical writers have seen many changes in our professions in recent years, and theres no sign of change slowing down. One thing endures: the writer&#39;s goal of communicating to understanding. Its not as easy as it sounds. Because we are all Abbott and Costello.</p>
