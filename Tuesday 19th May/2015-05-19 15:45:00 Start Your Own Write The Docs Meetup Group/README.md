@@ -1,0 +1,5 @@
+<p>With just a little work, you can feel the joy of Write The Docs all year!<br>
+I started the Write The Docs PDX Meetup Group back in May of 2014, just after last years conference. As the only writer in my office, I often feel alone. At Write The Docs NA 2014 conference, I felt the joy of interacting with documentarians like myself, people who were facing similar challenges. I wanted to continue feeling that joy.<br>
+Ill describe my experiences creating a Write The Docs Meetup group in Portland. Ill show you how easy* it is to create a Meetup group, attract members, get sponsors, find speakers, and make sure all members of your group feel welcome. Ill tell you about the Meetups weve had, and what we learned from each other.<br>
+More importantly, Ill lay out the ways you can continue the conversation we&#39;ve had during WTD 2015. I&#39;ll share my best practices for excellent Meetups for Documentarians.<br>
+*Yes, easy is a euphemism for a lot of hard work. But the people you&#39;ll meet and the contacts that you&#39;ll make can reward you and your company in other ways.</p>

@@ -1,0 +1,1 @@
+<p>When people have to stop to understand labels and instructions, they can&#39;t stay engaged in their experiences. My job shipping Xbox One was to use words so well, people wouldn&#39;t notice them at all. In this talk, I&#39;ll show the only 3 reasons I use words in user interfaces, how I find the right words, and how I increase engagement by respecting people intent.</p>

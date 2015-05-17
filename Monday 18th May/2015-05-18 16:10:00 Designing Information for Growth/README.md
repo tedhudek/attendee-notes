@@ -1,0 +1,6 @@
+<p>Every tech company or organization organically produces docs in some form, but as scale increases, the information design decisions you started with will almost certainly serve some information consumers better than others. Depending on who&#39;s creating information and who&#39;s using it, the approach to designing and delivering information can be dramatically different, with very different outcomes that probably won&#39;t work across an entire larger organization. Be aware of the information design decisions you&#39;re making so you can plan for growth. Design by default is not a good strategy!<br>
+This talk discusses how:<br>
+Information inherently includes design, whether or not you meant to do it. Information also requires design, no matter how simple and straightforward it may seem.<br>
+Technical information can be roughly sorted into modes such as descriptive, defensive, procedural, and tutorial. (These are different from concept-task-reference.)<br>
+Each of these modes has different design implications that address different audiences and needs.<br>
+Being aware of your design priorities can help you understand how to make your stakeholders happier as your documentation base grows with the organization.</p>
