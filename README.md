@@ -14,7 +14,7 @@ We're currently (Sunday) at the first table downstairs in the CENTRL office.
 
 # WHY
 
-Last year a number of WriteTheDocs attendees put their notes on GitHub. By placing everyones' impressions of the talks in one place, we can all benefit from each other's understandings!
+Last year a number of WriteTheDocs attendees put their notes in git repositories on their GitHub accounts. By placing everyones' impressions of the talks in one place, we can all benefit from each other's understandings!
 
 # HOW
 
