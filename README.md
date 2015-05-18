@@ -18,7 +18,7 @@ Anyone and everyone at WriteTheDocs is welcome to contribute! Organized by @alex
 
 In order to ensure that all of the notes are easily accessible and the process of consolidating them is straightforward, we have drawn up some simple guidelines.
 
-There are two ways to submit your notes.
+There are three ways to submit your notes.
 
 1. You can **submit a pull request**. 
 
@@ -30,7 +30,11 @@ There are two ways to submit your notes.
 
     Please make sure the email subject line is the name of the talk you attended. The emails sent will be uploaded to the GitHub repo by volunteers.
 
-When submitting your notes, please make sure you do the following:
+3. Tweet.
+
+    Any conference tweets that contain the word "writethedocs" will be archived on [Google Drive](https://drive.google.com/open?id=1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0&authuser=0). The spreadsheet is being automatically updated every minute. You can view a searchable archive of the tweet archive [here](https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2Farc.html%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247). A conversation explorer is also available [here](https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2F%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247).
+
+When submitting your notes (excluding Twitter), please make sure you do the following:
 
 * Include the best way to contact you either at the bottom of the file (if submitting a pull request) or in your email (if emailing writethedocs2015@gmail.com), so we can reach out to you when combining all of the notes.
 
