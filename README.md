@@ -30,12 +30,12 @@ There are three ways to submit your notes.
 
     Please make sure the email subject line is the name of the talk you attended. The emails sent will be uploaded to the GitHub repo by volunteers.
 
-When submitting your notes, please make sure you do the following:
+3. Tweet.
+
+    Any conference tweets that contain the word "writethedocs" will be archived on [Google Drive](https://drive.google.com/open?id=1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0&authuser=0). The spreadsheet is being automatically updated every minute. You can view a searchable archive of the tweet archive [here](https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2Farc.html%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247). A conversation explorer is also available [here](https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2F%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247).
+
+When submitting your notes (excluding Twitter), please make sure you do the following:
 
 * Include the best way to contact you either at the bottom of the file (if submitting a pull request) or in your email (if emailing writethedocs2015@gmail.com), so we can reach out to you when combining all of the notes.
 
 * After the talks are over, we will work together to merge all of the notes in a master notes document, so feel free to take more focused notes rather than trying to cover everything that the talk explained.
-
-3. Tweet.
-
-    Any conference tweets that contain the word "writethedocs" will be archived at https://drive.google.com/open?id=1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0&authuser=0. The spreadsheet is being automatically updated every minute. You can view a searchable archive of the tweet archive at https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2Farc.html%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247. A conversation explorer is also available at https://www.google.com/url?q=http%3A%2F%2Fhawksey.info%2Ftagsexplorer%2F%3Fkey%3D1hBqEmrGkW44z29lNCPIKLoz5kUZF64K202e7sXAWFY0%26gid%3D400689247.
