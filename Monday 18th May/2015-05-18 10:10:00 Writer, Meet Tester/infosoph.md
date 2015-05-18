@@ -33,3 +33,5 @@ Working in the real world
 - only look at questions that have been answered
   - was it answered with a link to the docs? if not, add a link.
   - is the doc missing? file a bug 
+
+Luke Gaudreau <luke@infosoph.org>

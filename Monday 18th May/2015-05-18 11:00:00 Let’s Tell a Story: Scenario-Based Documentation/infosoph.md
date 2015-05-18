@@ -42,3 +42,5 @@
     - simple procedures for a complex process (don't give unnecessary details)
     - video is for illustration not documentation
     - have fun
+
+Luke Gaudreau <luke@infosoph.org>
