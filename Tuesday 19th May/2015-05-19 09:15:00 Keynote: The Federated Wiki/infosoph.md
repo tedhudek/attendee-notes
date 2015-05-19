@@ -30,3 +30,5 @@ Federated wiki
     - neighbors (sites browsed)
         - pulls in site map
         - searchable
+
+Luke Gaudreau <luke@infosoph.org>
