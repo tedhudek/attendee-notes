@@ -1,0 +1,74 @@
+- Who's using the docs?
+    - Everyone...(internal, external, managers, marketing, legal, etc)
+
+Competing modes of documentation
+--------------------------------
+
+- descriptive
+    - how does it work
+    - what can I do?
+    - Pros
+        - useful pre-sales
+        - detailed reference
+        - contextual
+        - loved by sales, marketing, and legal
+    - Cons
+        - hard to maintain
+        - not urgent
+        - not useful for intermediate users
+        - hated by docs and support 
+- defensive
+    - how can i fix this
+    - what problems can I anticipate?
+    - how can we avoid a lawsuit?
+    - error messages
+    - FAQ
+    - known issues/bugs
+    - dependencies/restrictions
+    - Pros
+        - Urgent!
+        - real world
+        - legal necessity
+        - reduces support needs
+        - loved by support
+    - Cons
+        - edge cases, not best practices
+        - bandage for poor development practices and design decisions
+        - bad news
+        - where to put it?
+        - hated by marketing and sales
+- procedural
+    - how do i
+    - key tasks
+    - how are these tasks related
+    - what's the best way 
+    - Pros
+        - best practices/real world
+        - tests the product
+        - loved by Docs and Support
+    - Cons
+        - repetitive
+        - boring
+        - cluttered
+        - buries the lede
+        - hated by Sales
+- tutorial
+    - hands on learning
+    - fully worked out example
+    - step by step to accomplish a thing
+    - Pro
+        - cover a specific use case
+        - hands on learning
+        - empowering
+        - loved by Developers, Documenters and some users
+    - Con 
+        - expensive to write and maintain
+        - requires deep knowledge
+        - hard to generalize
+        - Hated by people who don't agree with the format or direction
+- So what?
+    - all your docs have an audience
+    - where to put it all
+    - cross-organizational
+
+Luke Gaudreau <luke@infosoph.org>

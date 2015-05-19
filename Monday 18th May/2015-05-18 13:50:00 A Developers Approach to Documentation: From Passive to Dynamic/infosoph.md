@@ -1,0 +1,50 @@
+- there's a lot of bad documentation out there
+- we got an interview with ycombinator for DocHub.it
+- writing documentation is hard, but it doesn't have to be. Really!
+    - we provide tools
+    - made a very mimimum viable product
+- as a developer most of my life is spent reading documentation
+- 6 months ago, we go in
+- [readme.io](http://readme.io)
+- I dislike writing documentation
+    - it's a lot of work to get started
+    - writing a basic http api is really simple
+        - but it's easy to make assumptions and not document things
+- english is ambigious
+    - the API is written unambiguously
+    - the implementation is written unambiguously
+    - we try to bridge the gap with english
+- generated docs are never good enough 
+- people think good formatting makes good docs
+- pollyanna principle
+    - machines should do work
+    - people should think
+- Four types of documentation
+    - Reference 
+    - Examples/Tutorials
+    - Topical Guides
+    - Support (important but ignored)
+        - PHP docs with comments
+- Separation of duties
+    - Computers are great for reference
+    - Computers generate example code, Humans curate and add context
+    - Humans can create guides, but community can help identify what's wrong
+    - Support can be the wild west, keep support open so the community can contribute
+- O'Reilly-ification of Documentation
+    - they're great but they're monolithic
+    - they have to cover everything
+- Start tailoring to users
+- Onboarding
+    - Minimum viable call (get them doing something as quickly as possible)
+    - Learn, install, MVC, next steps
+- Interactive playgrounds
+    - try something without much risk of error
+- Dashboards should be front and center
+- Error messages
+    - Angular puts a URL that brings you to the docs for the error
+- API SDKs 
+- Support section
+    - support is the biggest threat to documentation
+- Technology can't replace humans but we can use it to do what it's good at
+
+Luke Gaudreau <luke@infosoph.org>
