@@ -1,0 +1,61 @@
+- customers are the university community
+- technology issues 
+- process issues
+    - nightmare approval process
+    - hour long training videos
+    - articles written in technical jargon
+- customers lost faith in us
+- documentation use went down, support calls went up
+- oral tradition was passed between people
+- soft launch help system
+    - improve customer experience
+    - encourage SME contribution
+    - title answers a specific need
+    - submit feedback
+    - chunked content
+    - brief overview, why it's important
+    - before you start
+    - notes for related content
+- technical and tactical improvements
+    - ap style
+    - instutional style guide
+    - voice and tone guidelines
+    - CMS system 
+    - lower barrier to entry for authors
+    - templates for articles
+    - bucket list of user requests
+    - consistency in the formatting of articles
+    - craftsman mentality
+    - check your personal preferences at the door
+- soft skills
+    - diplomacy
+    - follow-through
+    - communication
+    - traverse silos
+    - learn the customs 
+- what's in it for me
+    - make sure support articles user's business needs
+    - creating a shared need
+        - build trust, provide guidance
+        - road shows for contributors
+        - emphasize the utility of self-service
+    - avoid the tempation for hand-holding
+    - don't expect perfection & demonstrate empathy
+- lessons learned
+    - we are investigative reporters
+        - focus on the business needs
+        - don't get sucked into politics
+        - opppp other people's problems, politics, and propaganda
+    - acknowledge your weaknesses
+        - learn how to say no
+        - learn now to manage time
+        - i got 99 problems but you're project ain't one
+    - beware of impostor syndrome
+        - remember you have something to offer
+        - believe in yourself
+        - fake it till you become
+    - find your support group 
+    - always be learning
+    - take time to celebrate
+
+Luke Gaudreau <luke@infosoph.org>
