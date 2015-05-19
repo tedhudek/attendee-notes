@@ -1,0 +1,33 @@
+- our writers are far apart
+- we each work alone
+- reverse engineers
+- community
+- docs or it didn't happen
+- do it while it's fresh
+- one community leader
+    - budget
+- involve sponsor(s) documentarians
+    - learn how others solve problems
+    - find a new documentarian
+- build skills/share best practices
+- find speakers
+    - speaker list from previous conferences
+    - other meetups (not just writers)
+- topics
+    - introduction to DITA...
+    - good speakers have topics
+    - go beyond writing
+    - lightning talks
+- sell your meetup group
+- find a good location
+    - make sure everything works
+- publicity
+    - joint meetup
+    - local events calendars
+- meetup day
+    - arrive early
+    - greet everyone
+    - help your speaker
+    - people want to help. ask for help. 
+    - make announcements
+- I probably broke all the rules
