@@ -1,3 +1,6 @@
+How to Write Documentation for People that Don't Read
+=====================================================
+
 People Don't Read
 -----------------
 
