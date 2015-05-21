@@ -1,7 +1,10 @@
 Write the Docs Notes
 ====================
 
-Contents:
+This is a collected set of notes from attendees at Write the Docs 2015.
+You can view it on GitHub at https://github.com/writethedocs/attendee-notes.
+Please contribute anything you find useful from the talks,
+if it's missing in the notes.
 
 .. toctree::
    :glob:
