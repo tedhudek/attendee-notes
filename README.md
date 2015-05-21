@@ -1,5 +1,7 @@
 # Write the Docs Attendee Notes
 
+These notes are viewable in a rendered form on Read the Docs: http://write-the-docs-attendee-notes.readthedocs.org/
+
 ## What
 
 A consolidated repository where all attendees of the WriteTheDocs NA 2015 conference are welcome to contribute their notes for each presentation. After the conference ends, we will collaborate to make a master file of all the notes.
