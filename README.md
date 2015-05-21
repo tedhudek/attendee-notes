@@ -1,4 +1,6 @@
-# WHAT
+# Write the Docs Attendee Notes
+
+## What
 
 A consolidated repository where all attendees of the WriteTheDocs NA 2015 conference are welcome to contribute their notes for each presentation. After the conference ends, we will collaborate to make a master file of all the notes.
 
@@ -6,15 +8,15 @@ The directory structure is broken down by day, and then by talk. Each talk's fol
 
 **Note**: Any speakers are welcome to augment or edit the README for their talk.
 
-# WHY
+## Why
 
 Last year a number of WriteTheDocs attendees put their notes in git repositories on their GitHub accounts. By placing everyones' impressions of the talks in one place, we can all benefit from each other's understandings!
 
-# WHO
+## Who
 
 Anyone and everyone at WriteTheDocs is welcome to contribute! Organized by @alexfornuto.
 
-# HOW
+## How
 
 In order to ensure that all of the notes are easily accessible and the process of consolidating them is straightforward, we have drawn up some simple guidelines.
 
