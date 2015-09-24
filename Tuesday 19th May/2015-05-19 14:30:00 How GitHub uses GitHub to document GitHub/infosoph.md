@@ -39,7 +39,7 @@ Build
         - templates working
         - html-proofer
         - capybar/selenium
-        - github comment status api
+        - github commit status api
     - jekyll auth (limit access)
     - github deploy
 - publish
