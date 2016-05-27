@@ -14,12 +14,12 @@ if it's missing in the notes.
 
 .. toctree::
    :glob:
-   :caption: Monday, May 18th
+   :caption: 2015 
 
-   Monday 18th May/*/*
+   2015/*/*
 
 .. toctree::
    :glob:
-   :caption: Tuesday, May 19th
+   :caption: 2016
 
-   Tuesday 19th May/*/*
+   2016/*/*
