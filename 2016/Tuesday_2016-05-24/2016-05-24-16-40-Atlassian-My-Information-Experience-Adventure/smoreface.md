@@ -1,0 +1,69 @@
+Daniel Stevens, Atlasssian, @dan_stevens9190
+
+- My path to Atlassian
+    - Healthcare learning to observe
+    - Univ Minnesota, learning to rhetoric
+    - IBM, learning to user structure, systems, process
+    - Medtronic, learn to appreciate the importance of specifics (little tiny details matter a lot)
+    - Kroll Ontrack, learn to survive a challenge and take a big risk
+    - Went to Atlassian
+- From QA to design
+    - What do we believe tech writing is? what does it mean to us? where does it need to go?
+    - Devs write great code, find out what works, make it repeatable and spread it across the world
+    - Wins:
+        - building a culture where information is an essential part of the experience
+        - expanding the team with researchers, developers, and designers
+        - sharing skills and learning from each other
+    - Frustrations
+        - adopting new ways of thinking
+        - staying focused on providing great docs
+            - easy to get distracted by the shiny thing in the corner like user testing or screenshots or videos
+        - what is our team in this new world
+    - Hopes
+        - everyone who delivers information is telling the same story
+        - information is through about in every way it impacts anyone who is using or wants to use our products
+        - combine design, research, data analytics, and great tech writing
+        - deliver great information experiences in exactly the right place, time, and manner
+- Resistance to change
+    - it’s hard, not impossible
+    - resistance vs motivation
+        - we stay stuck in patterns? so stage change so people can adjust
+        - if it isn’t broken, why fix it? constantly show value of change
+        - I don’t think I can do that… so enhance existing skills
+    - give everyone some cake - reward their passions
+- Making Confluence behave
+    - Design influence on existing tools
+    - connect, integrate, and develop
+        - connect with plugin vendors to get help building solutions
+        - integrate with tools that help them measure and understand
+        - develop custom solutions as needed
+- What IX means to me (not just a fancy title) (information experience)
+    - Information experience
+    - a new way of thinking about information
+    - Gathering data so that you know ahead of time what your docs look like
+    - set direction for the docs and the team
+    - measuring results
+    - writing for platforms
+    - work like designers
+        - do card-sorting
+        - “content sparring”
+    - connecting stories
+        - respond to a how-to blog post with a tutorial
+    - you always feel at home when you get to any piece of content from Atlassian
+    - Working with every other team to create a great information experience
+        - Marketing teams
+            - redesign homepage and copy on the page that shows up before people access the app
+        - Product teams
+        - Design teams
+            - designers have final say on some things, IX team has final say on other aspects
+        - Engineering teams
+    - Most of the IX team is writers
+        - sometimes you have to act like content strategists or designers or PM or support or engineers or data scientists or or or
+        - tech writer can get into almost every office -
+- Where we are going
+    - influence all the things
+        - connect marketing to support
+        - connect product to design
+        - created an IX toolkit 😍
+        - voice and tone card
+        - design week 2016 with information experience involved heavily

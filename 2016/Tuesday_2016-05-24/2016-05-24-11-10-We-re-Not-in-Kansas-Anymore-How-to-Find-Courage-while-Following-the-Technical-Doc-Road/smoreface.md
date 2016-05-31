@@ -1,0 +1,36 @@
+Christy Lutz, technical communicator, @canncrochet
+
+- Travel with friends!
+    - talk to QA and engineering
+- Talk to your team
+    - Instead of telling people a content plan, ask them what they need.
+    - go to standups!
+- Be vulnerable
+    - expect your team to be open and honest with you in feedback to your documentation
+    - pick your fights - compromise. clarity and helping others > perfect sentences
+- Collaborate
+    - they help you and you can help them
+- Make a plan
+    - what is the goal?
+    - keep plans somewhere you can refer to them to give you courage
+- Do research
+    - more confidence in your goals if you do research
+    - did someone else already solve the problem you’re trying to solve?
+    - “why did I lay out my page this way?"
+- share your work with everyone
+    - practice sharing with everyone
+    - read it out loud
+    - find a person whose feedback scares you the most and share it with them
+- practice design critique
+    - identify project stakeholders and goals
+    - share goals and gather feedback
+    - listen to the feedback without justification
+    - then you get to decide what to do with the feedback
+    - compare feedback to your goals
+        - if the feedback doesn’t support the goals, it’s outside scope
+- expect positive feedback
+- we all have imposter syndrome
+- acknowledge adversity
+    - acknowledge what you’ve been through and that you overcame challenges
+- accept that nothing is perfect
+    - the point is not perfection, it’s helping people
