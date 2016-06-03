@@ -16,4 +16,4 @@
 #### CSAT is an absolute necessity to determine if customers are satisfied.
 
 
-#### [Video Pending: CSAT - What’s That?]
+#### [Video: CSAT - What’s That?](https://youtu.be/Nmx9_GZNZF8)
